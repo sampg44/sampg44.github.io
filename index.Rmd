@@ -1,0 +1,33 @@
+---
+title: "Sam Pacheco"
+image: "sampocket.jpg"
+links:
+  
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://x.com/samm_pgom/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/sampg44/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:sam.pg.elo@gmail.com"
+output:
+  postcards::solana
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+I am interested in gene regulation, small RNA's, lncRNAs, and new topics to discover!
+
+#### **Education**
+
+**Undergraduate** |Licenciatura en Ciencias Genómicas UNAM Juriquilla| Agosto 2023 - Present
+
+#### **Experience**
+
+**summer lab** | @[Genome Evolution Laboratory](https://liigh.unam.mx/lmorales/) | Dr.Lucía Morales | Junio 2024 - Present
+
+
+
