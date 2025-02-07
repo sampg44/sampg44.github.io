@@ -9,6 +9,8 @@ links:
     url: "https://github.com/sampg44/"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:sam.pg.elo@gmail.com"
+  - label: '`r fontawesome::fa(name = "flask", fill = "steelblue")` CV'
+    url: "sam_cv.html"
 output:
   postcards::solana
 ---
